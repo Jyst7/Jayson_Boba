@@ -6,13 +6,17 @@ body {
     color: #333;
     max-width: 800px;
     margin: 0 auto;
-    background: #00000F;
+    background: #545333;
 }
 
 h1 {
-    color: #0000FF;
-    border-bottom: 2px solid #eee;
+    color: #FDFBD4;
+    border-bottom: 2px solid #FDFBD4;
     padding-bottom: 10px;
+}
+
+p {
+    color:#FDFBD4;
 }
 
 img {
